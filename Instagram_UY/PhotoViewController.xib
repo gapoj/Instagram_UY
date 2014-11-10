@@ -2,6 +2,7 @@
 <document type="com.apple.InterfaceBuilder3.CocoaTouch.XIB" version="3.0" toolsVersion="6250" systemVersion="13E28" targetRuntime="iOS.CocoaTouch" propertyAccessControl="none" useAutolayout="YES" useTraitCollections="YES">
     <dependencies>
         <plugIn identifier="com.apple.InterfaceBuilder.IBCocoaTouchPlugin" version="6244"/>
+        <capability name="Alignment constraints with different attributes" minToolsVersion="5.1"/>
         <capability name="Constraints to layout margins" minToolsVersion="6.0"/>
     </dependencies>
     <objects>
@@ -181,24 +182,24 @@
                     <exclude reference="eCH-Ei-LQX"/>
                 </mask>
                 <mask key="constraints">
+                    <exclude reference="PjH-eW-J4Y"/>
+                    <exclude reference="UDu-03-KE5"/>
+                    <exclude reference="aiF-lN-7L2"/>
+                    <exclude reference="52b-CW-jxf"/>
+                    <exclude reference="eDb-tb-7rw"/>
+                    <exclude reference="72h-Zy-2JB"/>
+                    <exclude reference="ZEf-LN-N00"/>
+                    <exclude reference="GI3-Ph-VnN"/>
+                    <exclude reference="cpd-UK-TjR"/>
                     <exclude reference="9Jg-RN-LBy"/>
                     <exclude reference="cXY-7F-kdA"/>
+                    <exclude reference="ZuM-40-WxX"/>
+                    <exclude reference="d7G-Ob-Kaw"/>
+                    <exclude reference="yvT-Pw-KTg"/>
                     <exclude reference="7QF-lp-Ydv"/>
                     <exclude reference="DL2-XB-dc3"/>
                     <exclude reference="MfY-8i-WhP"/>
                     <exclude reference="szu-3E-rXv"/>
-                    <exclude reference="GI3-Ph-VnN"/>
-                    <exclude reference="cpd-UK-TjR"/>
-                    <exclude reference="52b-CW-jxf"/>
-                    <exclude reference="eDb-tb-7rw"/>
-                    <exclude reference="PjH-eW-J4Y"/>
-                    <exclude reference="UDu-03-KE5"/>
-                    <exclude reference="aiF-lN-7L2"/>
-                    <exclude reference="72h-Zy-2JB"/>
-                    <exclude reference="ZEf-LN-N00"/>
-                    <exclude reference="ZuM-40-WxX"/>
-                    <exclude reference="d7G-Ob-Kaw"/>
-                    <exclude reference="yvT-Pw-KTg"/>
                 </mask>
             </variation>
             <variation key="widthClass=compact">
@@ -212,24 +213,24 @@
                     <include reference="eCH-Ei-LQX"/>
                 </mask>
                 <mask key="constraints">
+                    <include reference="PjH-eW-J4Y"/>
+                    <include reference="UDu-03-KE5"/>
+                    <include reference="aiF-lN-7L2"/>
+                    <include reference="52b-CW-jxf"/>
+                    <include reference="eDb-tb-7rw"/>
+                    <include reference="72h-Zy-2JB"/>
+                    <include reference="ZEf-LN-N00"/>
+                    <include reference="GI3-Ph-VnN"/>
+                    <include reference="cpd-UK-TjR"/>
                     <include reference="9Jg-RN-LBy"/>
                     <include reference="cXY-7F-kdA"/>
+                    <include reference="ZuM-40-WxX"/>
+                    <include reference="d7G-Ob-Kaw"/>
+                    <include reference="yvT-Pw-KTg"/>
                     <include reference="7QF-lp-Ydv"/>
                     <include reference="DL2-XB-dc3"/>
                     <include reference="MfY-8i-WhP"/>
                     <include reference="szu-3E-rXv"/>
-                    <include reference="GI3-Ph-VnN"/>
-                    <include reference="cpd-UK-TjR"/>
-                    <include reference="52b-CW-jxf"/>
-                    <include reference="eDb-tb-7rw"/>
-                    <include reference="PjH-eW-J4Y"/>
-                    <include reference="UDu-03-KE5"/>
-                    <include reference="aiF-lN-7L2"/>
-                    <include reference="72h-Zy-2JB"/>
-                    <include reference="ZEf-LN-N00"/>
-                    <include reference="ZuM-40-WxX"/>
-                    <include reference="d7G-Ob-Kaw"/>
-                    <include reference="yvT-Pw-KTg"/>
                 </mask>
             </variation>
             <point key="canvasLocation" x="615" y="1085"/>

@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>5C447A27-9B14-4614-B5B8-2EB8E2145DFB</string>
+	<key>IDESourceControlProjectName</key>
+	<string>Instagram_UY</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>CA99ED9AA4A1FD643A27226589D2924148303744</key>
+		<string>https://github.com/gapoj/Instagram_UY.git</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>Instagram_UY.xcodeproj</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>CA99ED9AA4A1FD643A27226589D2924148303744</key>
+		<string>../..</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>https://github.com/gapoj/Instagram_UY.git</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>111</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>CA99ED9AA4A1FD643A27226589D2924148303744</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>CA99ED9AA4A1FD643A27226589D2924148303744</string>
+			<key>IDESourceControlWCCName</key>
+			<string>Instagram_UY</string>
+		</dict>
+	</array>
+</dict>
+</plist>
